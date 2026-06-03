@@ -1,0 +1,32 @@
+
+WiData Srl — Manuale Prodotti IoT
+
+SENSORE XS200 - MONITORAGGIO AMBIENTALE
+Il sensore XS200 è progettato per il monitoraggio ambientale in ambienti industriali e urbani.
+Misura temperatura (-20°C a +60°C), umidità relativa (0-100%), pressione atmosferica e qualità dell'aria (CO2, PM2.5).
+Classificazione IP67: impermeabile e resistente alla polvere. Alimentazione: batteria Li-Ion 3.7V, autonomia 2 anni.
+Connettività: LoRaWAN, NB-IoT, WiFi 802.11n. Dimensioni: 85x45x30mm. Peso: 120g.
+Certificazioni: CE, FCC, RoHS. Garanzia: 3 anni.
+
+GATEWAY GW500 - CONCENTRATORE DATI
+Il gateway GW500 raccoglie dati da fino a 1000 sensori simultaneamente tramite LoRaWAN.
+Copertura fino a 15km in aree rurali, 3km in aree urbane. Elaborazione edge computing integrata.
+Connessione cloud via Ethernet, WiFi o 4G LTE. Storage locale: 32GB SSD.
+Alimentazione: 220V AC o pannello solare (opzionale). Temperatura operativa: -40°C a +70°C.
+Certificazioni: CE, IP65. Installazione: palo, tetto o rack.
+
+PIATTAFORMA XPLORE - ANALYTICS
+Xplore è la piattaforma cloud di WiData per la visualizzazione e analisi dei dati IoT.
+Dashboard personalizzabili con grafici real-time, storico dati fino a 5 anni.
+Alerting automatico via email, SMS o webhook quando i valori superano soglie configurabili.
+API REST per integrazione con sistemi terzi (ERP, SCADA, BIM).
+Machine learning per previsione anomalie e manutenzione predittiva.
+Piani: Free (5 sensori), Pro (100 sensori, €49/mese), Enterprise (illimitato, prezzo su richiesta).
+SLA: 99.9% uptime garantito nei piani Pro ed Enterprise.
+
+SUPPORTO E ASSISTENZA
+Supporto tecnico disponibile lunedì-venerdì 9:00-18:00.
+Email: support@widata.cloud | Telefono: +39 079 123456.
+Per informazioni commerciali: sales@widata.cloud.
+Sede: Via Roma 42, Sassari (SS) 07100, Italia.
+Spedizioni in tutta Italia in 3-5 giorni lavorativi.
