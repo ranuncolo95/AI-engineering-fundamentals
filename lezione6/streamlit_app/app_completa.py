@@ -1,7 +1,6 @@
 
 import streamlit as st
 import anthropic
-import chromadb
 import os
 import json
 import re
