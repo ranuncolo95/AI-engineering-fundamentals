@@ -1,0 +1,7 @@
+WiData Srl - Note interne
+
+Cliente: Comune di Sassari
+Progetto: Monitoraggio qualità aria
+Sensori installati: 12 XS200
+Data installazione: 15/03/2026
+Stato: operativo
