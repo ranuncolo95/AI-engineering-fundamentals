@@ -68,7 +68,7 @@ if "token_totali" not in st.session_state:
 
 with st.sidebar:
     st.title("⚙️ Impostazioni")
-    nome_chatbot = st.text_input("Nome chatbot", "Chatbot WiData")
+    nome_chatbot = st.text_input("Nome chatbot", "Chatbot Tortolì")
     temperature = st.slider("Temperature", 0.0, 1.0, 0.7, 0.1)
     n_chunks = st.slider("Chunk RAG", 1, 5, 3)
     st.divider()
