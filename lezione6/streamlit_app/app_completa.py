@@ -4,6 +4,7 @@ import anthropic
 import os
 from pypdf import PdfReader
 import io
+from defs import carica_system
 
 st.set_page_config(page_title="Chatbot WiData", page_icon="🤖", layout="wide")
 
@@ -22,12 +23,11 @@ if not api_key:
 
 client = anthropic.Anthropic(api_key=api_key)
 
-SYSTEM = """
-Sei l'assistente virtuale di WiData Srl, startup IoT e smart cities di Sassari.
-Rispondi SOLO basandoti sui documenti forniti nel contesto.
-Se non hai informazioni sufficienti, dì: 'Non ho questa informazione.'
-Non inventare mai dati tecnici, prezzi o specifiche.
-"""
+
+SYSTEM_FILE = "widata_system.txt"
+
+SYSTEM = carica_system(SYSTEM_FILE)
+
 
 def chunka_testo(testo, chunk_size=400, overlap=50):
     chunks, start = [], 0
