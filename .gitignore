@@ -27,7 +27,6 @@ chroma_db/
 vector_store/
 
 # ── Dati e modelli ────────────────────────────────────────────────────────────
-*.pdf
 *.csv
 *.pkl
 *.h5
